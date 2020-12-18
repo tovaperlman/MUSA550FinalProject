@@ -105,15 +105,15 @@ analytics:
 
 # Site Author
 author:
-  name: "Nick Hand"
+  name: "Tova Perlman"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
+  bio: "MUSA Student | Protest Trend Watcher"
   location: "Philadelphia"
   email:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+       url: mailto:tperlman@upenn.design.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
