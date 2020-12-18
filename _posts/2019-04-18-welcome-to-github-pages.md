@@ -1,5 +1,5 @@
 ---
-title: "Welcome to GitHub Pages!"
+title: "Introduction"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
@@ -8,25 +8,4 @@ tags:
   - update
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and commit your changes to to the repository. GitHub will automatically rebuild your site. Wait a few minutes and then refresh the site link to see the new changes. There are three main ways to make changes to your site:
-
-- Edit files within your in the browser at GitHub.com
-- Use a third party GitHub content editor, like [Prose by Development Seed](https://prose.io).
-- Clone down your repository and make updates locally, then push them to your GitHub repository.
-
-**To add new posts:** Add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-```python
-def print_message(message):
-  print(message)
-
-print_message("Welcome to GitHub Pages")
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+The year 2020 has been marked by many pandemics: COVID19, mass economic shutdown, and unrest caused by racial inequities and political leadership. All of these events have been met with protests and an urging from civilians that things should and need to be better. The question becomes: what are people protesting and are protests an effective source of enacting change at a local or federal level? Erica Chenoweth has set out to empirically prove that civil resistance is more successful than armed violence and that it can create effective change. In this ted talk (link to TedTalk), she discusses a rule she's founded known as the 3.5% rule. This rule states that if 3.5% of a given countries population is actively involved in protesting, they can topple the government. This rule was particularly popular when it was unclear if Donald Trump would give up the presidency. If he had won or refused to accede, would the country have been able to topple him? While it is scary to consider the delicate nature of our democracy, this rule, if true, gives power to the people in perhaps beneficial ways. My project seeks to analyze trends from Summer 2019 and Summer 2020 to see the popularity of protest subjects, types of protest and crowd size. It then uses US census data to get information on population at the county level and identify if there are any counties in the US in which at least 3.5% of the county population protested. Ultimately, we will display these results visually and see if we can identify counties with strong protest vibes.
