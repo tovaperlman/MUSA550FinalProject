@@ -18,6 +18,8 @@ tags:
 
 The inspiration for this project taken from this [New Yorker article] ( https://www.newyorker.com/magazine/2020/11/23/how-to-stop-a-power-grab ) and the data was provided by the Crowd Counting Consortium ( https://sites.google.com/view/crowdcountingconsortium/home ). 
 
+Hello World! 
+
 Methods:
 Step 1: Importing the data and concatenating Summer 2019 and Summer 2020 dataframes
 Step 2: Cleaning the data 
