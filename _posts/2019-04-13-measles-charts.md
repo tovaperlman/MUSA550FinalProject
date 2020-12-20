@@ -16,7 +16,7 @@ This post will show examples of embedding interactive charts produced using [Alt
 
 ## Altair Example
 
-Below is a chart of the incidence of measles since 1928 for the 50 US states.
+The dataset also contained categorizations of protests by type of event. For Summer 2019, the most popular event types are protest, rally, vigil, demonstration and counter protest. Summer 2020 seems to include these protest event types plus some more creative protest types because of COVID-19 and social distancing restrictions. Thus, we see a rise in bike ride, caravan and car caravan protest. This visualization shows each event type by state. We can also see event types by Date within the summer. In Summer 2020, towards the beginning of the summer it appears that rally is the most common event type. In July, protests become more popular over rallies and August included a significant amount of vigils. The vigils were most likely linked to gun shootings that had occurred during this time period. 
 
 <div id="altair-chart-1"></div>
 
