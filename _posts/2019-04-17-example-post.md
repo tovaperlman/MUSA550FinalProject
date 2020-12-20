@@ -1,16 +1,12 @@
 ---
 title: "Protests by Claims"
-date: 2019-04-17
+date: 2019-04-17T15:34:30-04:00
 published: true
 tags: [dataviz]
 excerpt: "This blog post focuses on protest claims"
 toc: true
 toc_sticky: true
 read_time: false
-altair-loader:
-  altair-chart-1:"charts/Summer19claimsAltair.json"
-  altair-chart-2:"charts/Summer20claimsAltair.json"
-  altair-chart-3:
 ---
 
 ## Protest Claims Summer 2019
