@@ -4,13 +4,13 @@ date: 2020-12-20
 published: true
 tags: [dataviz]
 excerpt: "This blog post focuses on if protests accomplish the 3.5% rule"
+altair-loader:
+  altair-chart-1: "charts/Summer19claimsAltair.json"
+  altair-chart-2: "charts/Summer19claimsAltair.json"
+  altair-chart-3: "charts/Summer19claimsAltair.json"
 toc: true
 toc_sticky: true
 read_time: false
-altair-loader:
-  altair-chart-1:"charts/Summer19claimsAltair.json"
-  altair-chart-2:"charts/Summer20claimsAltair.json"
-  altair-chart-3:
 ---
 
 ## Can Protests Enact Change?
