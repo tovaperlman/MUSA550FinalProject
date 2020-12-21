@@ -8,8 +8,8 @@ altair-loader:
   altair-chart-1: "charts/Summer19Estimates.json"
   altair-chart-2: "charts/Summer20Estimates.json"
   altair-chart-3: "charts/SummerEstimatescompared.json"
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
 
