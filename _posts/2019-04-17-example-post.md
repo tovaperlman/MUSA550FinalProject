@@ -4,6 +4,9 @@ date: 2019-04-17T15:34:30-04:00
 published: true
 tags: [dataviz]
 excerpt: "This blog post focuses on protest claims"
+altair-loader:
+  altair-chart-1: "charts/Summer19claimsAltair.json"
+  altair-chart-2: "charts/Summer20claims_EXP.json"
 toc: true
 toc_sticky: true
 read_time: false
@@ -11,9 +14,9 @@ read_time: false
 
 ## Protest Claims Summer 2019
 
-  Our first focus will be on protest topics. The following visualizations will seek to show the most popular protest trends of Summer 2019 and Summer 2020. Were there common protest claims in both? Or were they separate? We trimmed to the Top 20 trends and used .explode to include as many of the same words as possible. However, this set contains a lot of human errors or random groupings and so we find similar topics grouped separately. In Summer 2019, the biggest trends appear to be related to anti ICE or pro-immigration demands, against gun violence, for collective bargaining and unionization, pro trump, pro impeachment and pro LGBTQ. As we present this by state it is interesting to note which states experienced various types of protest though we are hesitant to draw conclusions as many states experienced only a few different protest claims.
+  Our first focus will be on protest topics. The following visualizations will seek to show the most popular protest trends of Summer 2019 and Summer 2020. Were there common protest claims in both? Or were they separate? We trimmed to the Top 20 trends and used .explode to include as many of the same claims as possible. However, this dataset contains a lot of human errors or random groupings and so we find similar topics grouped separately. In Summer 2019, the biggest trends appear to be related to anti ICE or pro-immigration demands, against gun violence, for collective bargaining and unionization, pro trump, pro impeachment and pro LGBTQ. As we present this by state it is interesting to note which states experienced various types of protest though we are hesitant to draw conclusions as many states experienced only a few different protest claims.
   
-![Summer-19-popular-claims]({{ site.url }}{{ site.baseurl }}/assets/images/Summer19popclaims.png)
+![Summer-19-popular-claims]({{ site.url }}{{ site.baseurl }}/assets/images/protestclaims2019.png)
 
 <div id="altair-chart-1"></div>
 
@@ -27,5 +30,5 @@ While the most popular protest claims are interesting, examining the claims by s
 <div id="altair-chart-2"></div>
 
 ### Claims compared
-<div id="altair-chart-3"></div>
+
 
