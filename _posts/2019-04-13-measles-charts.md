@@ -9,8 +9,8 @@ altair-loader:
   altair-chart-2: "charts/eventprotestscompared.json"
   altair-chart-3: "charts/eventprotests20.json"
   altair-chart-4: "charts/eventprotests20bydate.json"
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
 
