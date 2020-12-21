@@ -15,13 +15,15 @@ toc_sticky: false
 
 ## Crowd Sizes in Summer 2019
 
-  Next we examine the crowd sizes for both summers by dates. Hopefully, our examinations will enable us to see the trends in what dates crowds were highest and perhaps connect those to the news cycle. The datasets had the low and high estimates for each event and we went with the low estimates to be on the conservative side. We used a rolling mean to do this in order to get the 2 week average of crowds on any given day. In Summer 2019, it appears that on June 29th crowd sizes were at 10,469 people and on June 30th they had peaked to 60,559 people. Based on some brief research, it appears that the day before June 30th, the Supreme Court chose to consider whether Trump could shut down the DACA program (Deferred Action for Childhood Arrivals). These heightened crowds lasted for about two weeks until July 14th and then subsided at low levels for the rest of the summer. 
+  Next we examine the crowd sizes for both summers by dates. Hopefully, our examinations will enable us to see the trends in which dates crowds were highest and perhaps connect those to the news cycle. The datasets had the low and high estimates for each event and we went with the low estimates to be on the conservative side. 
+  
+  We used a rolling mean in order to get the 2 week average of crowds on any given day. In Summer 2019, it appears that on June 29th crowd sizes were at 10,469 people and on June 30th they had peaked to 60,559 people. Based on some brief research, it appears that the day before June 30th, the Supreme Court chose to consider whether Trump could shut down the DACA program (Deferred Action for Childhood Arrivals). These heightened crowds lasted for about two weeks until July 14th and then subsided at low levels for the rest of the summer. 
 
 <div id="altair-chart-1"></div>
 
 ## Crowd Sizes in Summer 2020
 
-  In Summer 2020, we see protests starting at a higher base point as George Floyd was murdered on May 25th. The height of the protests was on June 7th with 153,071 Americans participating in a type of protest event. The protests steeply declined after this. 
+  In Summer 2020, we see protests starting at a higher base point as George Floyd was murdered on May 25th. The height of the protests was on June 7th with 174,119 Americans participating in a type of protest event. The protests steeply declined after this. 
 
 
 <div id="altair-chart-2"></div>
