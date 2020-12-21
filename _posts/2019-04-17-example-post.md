@@ -7,8 +7,8 @@ excerpt: "This blog post focuses on protest claims"
 altair-loader:
   altair-chart-1: "charts/Summer19claimsAltair.json"
   altair-chart-2: "charts/Summer20claims_EXP.json"
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 read_time: false
 ---
 
