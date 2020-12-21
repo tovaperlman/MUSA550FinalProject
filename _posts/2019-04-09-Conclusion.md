@@ -16,6 +16,6 @@ read_time: false
   Future research in this dataset might include other columns regarding specific locations of the protests and if they were pro or anti their claims. We also might want to look at other datasets around protests including ones that focus on other parts of the world like the NAVCO database Chenoweth created, as well as looking at Twitter data surrounding protests and their locations and associations. 
   
   
-  ![protestsign]({{site.url}}{{site.baseurl}}/assets/images/protestsign.png)
+  ![protest-sign]({{ site.url }}{{ site.baseurl }}/assets/images/protestsign.png)
 
 Thank you for reading! 
