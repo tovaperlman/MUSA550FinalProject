@@ -4,13 +4,9 @@ date: 2020-20-12
 published: true
 tags: [dataviz]
 excerpt: "This is the conclusion to the project"
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 read_time: false
-altair-loader:
-  altair-chart-1:"charts/Summer19claimsAltair.json"
-  altair-chart-2:"charts/Summer20claimsAltair.json"
-  altair-chart-3:
 ---
 
 ## Conclusion
