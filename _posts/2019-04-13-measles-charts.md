@@ -17,7 +17,8 @@ toc_sticky: false
 ## Protests by event type 
 
 The dataset also contained categorizations of protests by type of event. For Summer 2019, the most popular event types are protest, rally, vigil, demonstration and counter protest. 
-![eventtypes2019]({{ site.baseurl }}/images/eventtypes2019.png)
+
+![eventtypes2019]({{ site.url }}{{ site.baseurl }}/assets/images/eventtypes2019.png)
 
 Here are the most popular event types by state in 2019:
 
@@ -25,7 +26,7 @@ Here are the most popular event types by state in 2019:
 
 Summer 2020 seems to include these protest event types plus some more creative protest types because of COVID-19 and social distancing restrictions. Thus, we see a rise in bike ride, caravan and car caravan protest. 
 
-![eventtypes2020]({{ site.baseurl }}/images/eventtypes2020.png)
+![eventtypes2020]({{ site.url }}{{ site.baseurl }}/assets/images/eventtypes2020.png)
 
 Here are the most popular event types by state in 2020:
 
