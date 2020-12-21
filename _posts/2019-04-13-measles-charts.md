@@ -9,8 +9,6 @@ altair-loader:
   altair-chart-2: "charts/eventprotestscompared.json"
   altair-chart-3: "charts/eventprotests20.json"
   altair-chart-4: "charts/eventprotests20bydate.json"
-hv-loader:
-  hv-chart-1: "charts/measlesHvplot.html"
 toc: true
 toc_sticky: true
 ---
