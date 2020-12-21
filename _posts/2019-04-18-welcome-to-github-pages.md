@@ -14,7 +14,7 @@ tags:
     
    While it is scary to consider the delicate nature of our democracy, this rule, if true, gives power to the people in perhaps beneficial ways. My project seeks to analyze trends from Summer 2019 and Summer 2020 to see the popularity of protest subjects, types of protest and crowd size. It then uses US census data to get information on population at the county level and identify if there are any counties in the US in which at least 3.5% of the county population protested. Ultimately, we will display these results visually and see if we can identify counties with strong protest trends.
 
-![Image-of-Protest]({{ site.url }}{{ site.baseurl }}/assets/images/protestimages.png
+![Image-of-Protest]({{ site.url }}{{ site.baseurl }}/assets/images/protestimagev2.png
 
 The inspiration for this project taken from this [New Yorker article](https://www.newyorker.com/magazine/2020/11/23/how-to-stop-a-power-grab/) and the data was provided by the [Crowd Counting Consortium](https://sites.google.com/view/crowdcountingconsortium/home/). 
 
