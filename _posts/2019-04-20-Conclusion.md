@@ -1,6 +1,6 @@
 ---
 title: "Conclusion"
-date: 2019-04-12T15:34:30-04:00
+date: 2019-04-20T15:34:30-04:00
 published: true
 tags: [dataviz]
 excerpt: "This is the conclusion to the project"
